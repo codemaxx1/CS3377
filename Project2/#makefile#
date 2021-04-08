@@ -1,0 +1,3 @@
+nanoproject3: Project2.c 
+	gcc -o Project2 Project2.c -I .
+	

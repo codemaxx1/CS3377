@@ -1,0 +1,3 @@
+Project2.c
+This program emulates the command line.
+Simply enter the command you wish to input following the prompt, and the program operates similar to a command terminal.

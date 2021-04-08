@@ -1,0 +1,9 @@
+README
+Project 4 has been split into two (2) files: Part1.c and plu.c.
+
+Part1.c
+This file is an edited Gaussian Elimination script.
+By inputting the number of threads to run, the user simply runs the Part1.c script.  It then does a Gaussian Elimination of some matrix and returns the result.
+
+plu.c
+I am going to meet with the TA to understand how to solve this problem.
