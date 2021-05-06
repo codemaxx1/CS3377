@@ -75,6 +75,7 @@ int runCommand(char **command)
     pid_t  pid;
     int status;
 
+	printf("executable path: %s", executablePath);
     //fork the process
     pid = fork();
 
@@ -102,7 +103,7 @@ int runCommand(char **command)
 }
 
 //get the command from the input string
-int getCommand(char* string, char** terms)
+    int getCommand(char* string, char** terms)
 {
     int commandRun;
     //variable definitions
@@ -155,7 +156,7 @@ int getCommand(char* string, char** terms)
             commandRun = runCommand(terms);
             if(commandRun==1)return 1;
             break;
-        }
+
         //printf("CHECKING STATUS GETCOMMAND: command: %d : %s\n",i, command[i]);
 
 

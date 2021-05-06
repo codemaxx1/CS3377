@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d15d8ad-c216-477b-a707-666489e1f814" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Project2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Project7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tokenizeString.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/Project2_Phase1" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/Project2_Phase1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/Project2_Phase1.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/Project2_Phase1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/Project6.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../Project6/Project6.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/README" beforeDir="false" afterPath="$PROJECT_DIR$/../Project6/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/a/example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project6/makefile" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rWmFE0XcKn1qhEnaJRaJmorvF1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project2/Project2_Phase1.c" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d15d8ad-c216-477b-a707-666489e1f814" name="Default Changelist" comment="" />
+      <created>1619100115286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619100115286</updated>
+      <workItem from="1619100123781" duration="6000" />
+      <workItem from="1619233716545" duration="56000" />
+      <workItem from="1619310532233" duration="10362000" />
+      <workItem from="1619388758291" duration="2711000" />
+      <workItem from="1619409724400" duration="3541000" />
+      <workItem from="1619466624918" duration="27538000" />
+      <workItem from="1619583598920" duration="1703000" />
+      <workItem from="1619746263036" duration="6727000" />
+      <workItem from="1619792613589" duration="1168000" />
+      <workItem from="1619831562780" duration="17438000" />
+      <workItem from="1619999156674" duration="1089000" />
+      <workItem from="1620013932517" duration="10474000" />
+      <workItem from="1620056469422" duration="5525000" />
+      <workItem from="1620141644207" duration="12979000" />
+      <workItem from="1620234287325" duration="34747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
